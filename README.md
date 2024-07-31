@@ -1,7 +1,4 @@
-**Install Packages**
+# #Install Packages
 
 ```bash
-npm init -y
-npm install express
-npm install nodemon
-npm install dotenv
+npm init -y npm install express npm install nodemon npm install dotenv
